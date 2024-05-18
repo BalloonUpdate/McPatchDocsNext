@@ -20,6 +20,7 @@ export default defineUserConfig({
         sidebar: [
             { text: '介绍', link: '/' },
             { text: '安装教程', link: '/guide' },
+            { text: '上传脚本模板', link: '/script-template' },
         ]
     })
 })
